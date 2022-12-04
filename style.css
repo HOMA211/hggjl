@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: gray;
+    padding: 10px;
+    border-radius: 20px;
+    border: burlywood solid 5px;
+}
+
+h1 {
+    font-size: 40px;
+    color: cadetblue;
+}
+
+footer {
+    background-color: cadetblue;
+    color: azure;
+    font-size: 20px;
+    border: burlywood solid 7px;
+}
+
+nav {
+    background-color: gray;
+    border-radius: 15px;
+    padding: 20px;
+    border: burlywood solid 5px;
+}
+
+h2 {
+    border: burlywood solid 5px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: gray;
+    color: azure;
+}
+
+p {
+    background-color: gray;
+    padding: 10px;
+    border: burlywood solid 7px;
+    border-radius: 25px;
+    margin: 5px;
+    color: azure;
+}
